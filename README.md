@@ -37,3 +37,13 @@ pyenv versions
 ```
 pyenv global 2.7.13 3.10.4
 ```
+切り替わっていることを確認
+```
+ #出力結果
+ 
+  system
+* 2.7.13 (set by /Users/xxx/.pyenv/version)
+  3.10.2
+* 3.10.4 (set by /Users/xxx/.pyenv/version)
+  3.9.12
+```
