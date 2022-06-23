@@ -47,3 +47,16 @@ pyenv global 2.7.13 3.10.4
 * 3.10.4 (set by /Users/xxx/.pyenv/version)
   3.9.12
 ```
+## venvを作成
+```
+python3 -m venv venv3.10.4
+```
+仮想環境をアクティベートする
+```
+. venv3.10.4 /bin/activate
+```
+```
+python -V
+```
+出力結果
+3.10.4
