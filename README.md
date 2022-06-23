@@ -33,3 +33,7 @@ pyenv versions
   3.10.4
 * 3.9.12 (set by /Users/xxx/.pyenv/version)
 ```
+切り替える時、初めにPython2系、次に3系を記載する。
+```
+pyenv global 2.7.13 3.10.4
+```
