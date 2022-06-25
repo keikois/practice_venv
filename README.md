@@ -6,6 +6,7 @@ practice:PythonのVenvを、バージョンを切り替えてpushする
 - Python3.8.13のVenvを作成
 - Python3.7.13のVenvを作成
 - Python3.6.15のVenvを作成
+- Python3.10.4-02のVenvを作成
 
 ## やり方
 - pyenvでpythonの欲しいバージョンをインストールする
