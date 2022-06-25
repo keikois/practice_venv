@@ -8,6 +8,7 @@ practice:PythonのVenvを、バージョンを切り替えてpushする
 - Python3.6.15のVenvを作成
 - Python3.10.4-02のVenvを作成
 - miniconda3-4.7.12のVenvを作成
+- anaconda3-2021.11のVenvを作成
 
 ## やり方
 - pyenvでpythonの欲しいバージョンをインストールする
